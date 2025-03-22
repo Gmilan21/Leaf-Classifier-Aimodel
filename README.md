@@ -3,4 +3,4 @@ This project, "AI Leaf Classifier," is designed to identify various types of lea
 
 Technologies Used Python: For backend development including machine learning model integration. PyTorch: Employed for constructing and training the convolutional neural network. Flask: Used to create the web application serving the model. PIL (Python Imaging Library): Manages image file processing in the backend. HTML/CSS: For developing the frontend interface of the web application.
 
-Leaf Species in the Dataset Apta Indian Rubber Tree Karanj Kashid Nilgiri Pimpal Sita Ashok Sonmohar Vad Vilayati Chinch
+Leaf Species used during training (Apta, Indian Rubber Tree, Karanj, Kashid, Nilgiri, Pimpal, Sita Ashok, Sonmohar, Vad, Vilayati Chinch)
